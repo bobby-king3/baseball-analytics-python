@@ -1,3 +1,0 @@
-[submodule "data/baseball-r-data"]
-	path = data/baseball-r-data
-	url = https://github.com/beanumber/baseball_R.git
