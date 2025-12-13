@@ -45,18 +45,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# Data (uncomment if you don't want to track data files)
-# data/
-# *.csv
-# *.xlsx
-# *.parquet
-
-# Models (if you train ML models)
-# models/
-# *.pkl
-# *.h5
-# *.joblib
-
 # Sensitive information
 .env
 .env.local
