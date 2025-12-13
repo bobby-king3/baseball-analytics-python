@@ -2,7 +2,7 @@ A learning project translating baseball analytics concepts from **"Analyzing Bas
 
 ## About
 
-This repository contains Python implementations of statistical analyses and visualizations from the book "Analyzing Baseball Data with R". While the original book uses R and ggplot2, this project recreates the analyses using Python's data science stack (pandas, matplotlib, seaborn, scikit-learn).
+This repository contains Python implementations of statistical analyses and visualizations from the book "Analyzing Baseball Data with R". While the original book uses R, this project recreates the analyses using Python's data science stack (pandas, matplotlib, seaborn, scikit-learn).
 
 ## Credit
 
