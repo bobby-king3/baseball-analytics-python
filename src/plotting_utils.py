@@ -15,7 +15,6 @@ def plot_regression(data, x, y, xlabel=None, ylabel=None, figsize=(8, 6),
     point_alpha : float - transparency of points
     title : str - plot title
     """
-    plt.style.use('ggplot')
     fig, ax = plt.subplots(figsize=figsize)
     sns.regplot(data=data, x=x, y=y,
                 scatter_kws={'color': 'black', 'alpha': point_alpha},
