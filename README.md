@@ -1,4 +1,4 @@
-A learning project translating baseball analytics concepts from **"Analyzing Baseball Data with R"** by Max Marchi and Jim Albert into Python.
+A learning project translating baseball analytics concepts from **"Analyzing Baseball Data with R"** into Python.
 
 ## About
 
