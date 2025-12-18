@@ -1,4 +1,4 @@
-A learning project translating baseball analytics concepts from **"Analyzing Baseball Data with R"** into Python.
+Translating baseball analytics concepts from "Analyzing Baseball Data with R" to Python.
 
 ## About
 
@@ -10,4 +10,4 @@ This repository contains Python implementations of statistical analyses and visu
 - **Original R Code:** [Baseball R Repository](https://github.com/beanumber/baseball_R)
 - **Website:** [Baseball With R](https://baseballwithr.wordpress.com/)
 
-This is an independent learning project. All Python code is original, though analysis methodologies follow the book.
+This is an independent project. All Python code is original, though analysis methodologies follow the book.
