@@ -8,6 +8,7 @@ This repository contains Python implementations of statistical analyses from the
 
 **Chapters:** 
 - Starting from Chapter 4 (Chapters 1-3 focuses on R installation and basics)  
+
 **Data:**
 - Extended through 2024 season (book uses data through 2022) so some metrics will slightly differ from the book
 
