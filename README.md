@@ -6,13 +6,13 @@ Translating baseball analytics concepts from "Analyzing Baseball Data with R" to
 
 This repository contains Python implementations of statistical analyses from the book "Analyzing Baseball Data with R", translated into Python's data science stack (pandas, matplotlib, seaborn, scikit-learn).
 
-**Chapters covered:** Starting from Chapter 4 (Chapters 1-3 focus on R basics)  
+**Chapters covered:** Starting from Chapter 4 (Chapters 1-3 focuses on R installation and basics)  
 **Data:** Extended through 2024 season (book uses data through 2022) so some metrics will slightly differ from the book
 
 ## Notebooks
 
 - [04 - The Relation Between Runs and Wins](notebooks/04_runs_and_wins.ipynb) - Linear regression, Pythagorean expectation
-- *(More chapters coming soon)*
+- [05 - Value of Plays Using Run Expectancy](notebooks/05_run_expectancy.ipynb) - Run expectancy matrices, base-out states
 
 ## Credit
 
