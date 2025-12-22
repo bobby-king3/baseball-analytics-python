@@ -12,10 +12,17 @@ This repository contains Python implementations of statistical analyses from the
 **Data:**
 - Extended through 2024 season (book uses data through 2022) so some metrics will slightly differ from the book
 
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Notebooks
 
 - [04 - The Relation Between Runs and Wins](notebooks/04_runs_and_wins.ipynb) - Linear regression, Pythagorean expectation
 - [05 - Value of Plays Using Run Expectancy](notebooks/05_run_expectancy.ipynb) - Run expectancy matrices, base-out states
+- [06 - Balls and Strikes Effects](notebooks/06_balls_and_strikes_effects.ipynb) - Count effects on batting outcomes/pitch sequencing analysis
 
 ## Credit
 
