@@ -5,3 +5,4 @@ seaborn>=0.13.0
 scikit-learn
 adjustText
 pyreadr
+pygam
