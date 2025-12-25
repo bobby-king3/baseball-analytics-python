@@ -3,18 +3,7 @@ import seaborn as sns
 
 def plot_regression(data, x, y, xlabel=None, ylabel=None, figsize=(8, 6), 
                    point_alpha=0.5, title=None):
-    """
-    Create a scatter plot with regression line using ggplot style.
     
-    Parameters:
-    -----------
-    data : DataFrame
-    x, y : str - column names
-    xlabel, ylabel : str - axis labels (defaults to column names)
-    figsize : tuple
-    point_alpha : float - transparency of points
-    title : str - plot title
-    """
     fig, ax = plt.subplots(figsize=figsize)
     sns.regplot(data=data, x=x, y=y,
                 scatter_kws={'color': 'black', 'alpha': point_alpha},
