@@ -6,3 +6,4 @@ scikit-learn
 adjustText
 pyreadr
 pygam
+pybaseball
