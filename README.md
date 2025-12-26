@@ -23,6 +23,7 @@ pip install -r requirements.txt
 - [04 - The Relation Between Runs and Wins](notebooks/04_runs_and_wins.ipynb) - Linear regression, Pythagorean expectation
 - [05 - Value of Plays Using Run Expectancy](notebooks/05_run_expectancy.ipynb) - Run expectancy matrices, base-out states
 - [06 - Balls and Strikes Effects](notebooks/06_balls_and_strikes_effects.ipynb) - Count effects on batting outcomes/pitch sequencing analysis
+- [07 - Catcher Framing](notebooks/07_catcher_framing.ipynb) - Measuring catcher pitch framing ability and strike zone boundaries
 
 ## Credit
 
@@ -30,4 +31,4 @@ pip install -r requirements.txt
 - **Book Website:** [Baseball With R (3rd Edition)](https://beanumber.github.io/abdwr3e/)
 - **Original R Code:** [Baseball R Repository](https://github.com/beanumber/baseball_R)
 
-All Python code is original, but examples directly follow the book
+All Python code is original but examples directly follow the book
