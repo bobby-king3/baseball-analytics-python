@@ -3,6 +3,8 @@ numpy>=2.3.0
 matplotlib>=3.10.0
 seaborn>=0.13.0
 scikit-learn
+statsmodels
+scipy
 adjustText
 pyreadr
 pygam
