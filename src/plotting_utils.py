@@ -16,8 +16,8 @@ def plot_regression(data, x, y, xlabel=None, ylabel=None, figsize=(8, 6),
     plt.tight_layout()
     return fig, ax
 
-def add_strike_zone(ax, facecolor='lightgray', edgecolor='black', linewidth=1, alpha=1.0):
-    """Add MLB strike zone rectangle to axis."""
+def add_strike_zone(ax, facecolor='lightgray', edgecolor='black', linewidth=1.5, alpha=1.0):
+    """Add MLB strike zone rectangle to an existing plot."""
     strike_zone = Rectangle(
         (-0.947, 1.5),
         width=0.947 * 2,
