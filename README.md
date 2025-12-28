@@ -6,7 +6,7 @@ This repository translates baseball analytics concepts from "*Analyzing Baseball
 
 **Chapters:** 
 - Starting from Chapter 4 (Chapters 1-3 cover R installation and basics)
-- Chapters 4-8 complete, with 9, 10, and 13 planned for 2026. 
+- Chapters 4-8 complete (Chapters 9, 10, and 13 forthcoming) 
 
 **Data:**
 - Extended through 2024 season (book uses data through 2022) so some metrics may differ slightly
@@ -31,4 +31,4 @@ pip install -r requirements.txt
 - **Book Website:** [Baseball With R (3rd Edition)](https://beanumber.github.io/abdwr3e/)
 - **Original R Code:** [Baseball R Repository](https://github.com/beanumber/baseball_R)
 
-**All Python code is original but examples directly follow the book. This project is independent, please support the authors of this great resource.**
+**This project is independent and all Python code is original but examples directly follow the book.  Please support the authors and their work.**
