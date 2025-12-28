@@ -1,16 +1,15 @@
 # Baseball Analytics in Python
 
-Translating baseball analytics concepts from "Analyzing Baseball Data with R" to Python.
-
 ## About
 
-This repository contains Python implementations of statistical analyses from the book "Analyzing Baseball Data with R", translated into Python's data science stack (pandas, matplotlib, seaborn, scikit-learn).
+This repository translates baseball analytics concepts from "*Analyzing Baseball Data with R*" to Python using pandas, matplotlib, seaborn, statsmodels, pygam, pybaseball, and scikit-learn.
 
 **Chapters:** 
-- Starting from Chapter 4 (Chapters 1-3 focuses on R installation and basics)  
+- Starting from Chapter 4 (Chapters 1-3 cover R installation and basics)
+- Chapters 4-8 complete, with 9, 10, and 13 planned for 2026. 
 
 **Data:**
-- Extended through 2024 season (book uses data through 2022) so some metrics will slightly differ from the book
+- Extended through 2024 season (book uses data through 2022) so some metrics may differ slightly
 
 ## Installation
 
@@ -24,6 +23,7 @@ pip install -r requirements.txt
 - [05 - Value of Plays Using Run Expectancy](notebooks/05_run_expectancy.ipynb) - Run expectancy matrices, base-out states
 - [06 - Balls and Strikes Effects](notebooks/06_balls_and_strikes_effects.ipynb) - Count effects on batting outcomes/pitch sequencing analysis
 - [07 - Catcher Framing](notebooks/07_catcher_framing.ipynb) - Measuring catcher pitch framing ability and strike zone boundaries
+- [08 - Career Trajectories](notebooks/08_career_trajectories.ipynb) - Modeling player performance over age
 
 ## Credit
 
@@ -31,4 +31,4 @@ pip install -r requirements.txt
 - **Book Website:** [Baseball With R (3rd Edition)](https://beanumber.github.io/abdwr3e/)
 - **Original R Code:** [Baseball R Repository](https://github.com/beanumber/baseball_R)
 
-All Python code is original but examples directly follow the book
+**All Python code is original but examples directly follow the book. This project is independent, please support the authors of this great resource.**
