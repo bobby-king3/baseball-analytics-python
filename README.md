@@ -29,6 +29,7 @@ pip install -r requirements.txt
 
 - **Book:** [Analyzing Baseball Data with R](https://a.co/d/7Mjuz71) by Max Marchi, Jim Albert, and Benjamin S. Baumer
 - **Book Website:** [Baseball With R (3rd Edition)](https://beanumber.github.io/abdwr3e/)
-- **Original R Code:** [Baseball R Repository](https://github.com/beanumber/baseball_R)
+- **Blog** [Exploring Baseball Data with R](https://baseballwithr.wordpress.com/)
+- **Original R Code:** [Github](https://github.com/beanumber/abdwr3edata)
 
 **This project is independent and all Python code is original but examples directly follow the book.  Please support the authors and their work.**
