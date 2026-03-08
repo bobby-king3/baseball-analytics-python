@@ -6,7 +6,7 @@ This repository translates baseball analytics concepts from "*Analyzing Baseball
 
 **Chapters:** 
 - Starting from Chapter 4 (Chapters 1-3 cover R installation and basics)
-- Chapters 4-9 complete (Chapters 10 and 13 forthcoming) 
+- Chapters 4-10 complete (Chapter 13 forthcoming)
 
 **Data:**
 - Extended through 2024 season (book uses data through 2022) so some metrics may differ slightly
@@ -25,6 +25,7 @@ pip install -r requirements.txt
 - [07 - Catcher Framing](notebooks/07_catcher_framing.ipynb) - Measuring catcher pitch framing ability and strike zone boundaries
 - [08 - Career Trajectories](notebooks/08_career_trajectories.ipynb) - Modeling player performance over age
 - [09 - Simulation](notebooks/09_simulation.ipynb) - Markov chain half-inning simulation, Bradley-Terry season modeling
+- [10 - Exploring Streaky Performances](notebooks/10_exploring_streaky_performances.ipynb) - DiMaggio's 56-game streak, at-bat clumpiness testing, Statcast launch velocity streakiness
 
 
 ## Credit
