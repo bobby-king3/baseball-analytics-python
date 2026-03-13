@@ -9,6 +9,7 @@ This repository translates baseball analytics concepts from "*Analyzing Baseball
 **Chapters:** 
 - Starting from Chapter 4 (Chapters 1-3 cover R installation and basics)
 - Chapters 4-10 and 13 complete
+- Chapters 11-12 cover SQL and database setup (R code specific, not included)
 
 **Data:**
 - Extended through 2024 season (book uses data through 2022) so some metrics may differ slightly
