@@ -1,12 +1,14 @@
 # Baseball Analytics in Python
 
+![HR Probability by Launch Angle and Exit Velocity](output.png)
+
 ## About
 
 This repository translates baseball analytics concepts from "*Analyzing Baseball Data with R*" to Python using pandas, matplotlib, seaborn, statsmodels, pygam, pybaseball, and scikit-learn.
 
 **Chapters:** 
 - Starting from Chapter 4 (Chapters 1-3 cover R installation and basics)
-- Chapters 4-10 complete (Chapter 13 forthcoming)
+- Chapters 4-10 and 13 complete
 
 **Data:**
 - Extended through 2024 season (book uses data through 2022) so some metrics may differ slightly
@@ -26,6 +28,7 @@ pip install -r requirements.txt
 - [08 - Career Trajectories](notebooks/08_career_trajectories.ipynb) - Modeling player performance over age
 - [09 - Simulation](notebooks/09_simulation.ipynb) - Markov chain half-inning simulation, Bradley-Terry season modeling
 - [10 - Exploring Streaky Performances](notebooks/10_exploring_streaky_performances.ipynb) - DiMaggio's 56-game streak, at-bat clumpiness testing, Statcast launch velocity streakiness
+- [13 - Home Run Hitting](notebooks/13_home_run_hitting.ipynb) - GAM launch variable modeling, spray angle, ballpark effects, batter vs. pitcher random effects
 
 
 ## Credit
